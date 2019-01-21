@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+1032456789
+=======
+=======
 我是學長我最帥
 
+>>>>>>> f69e48cb6ab7133351b98b3e8ea55f0bde7fdf6d
 hahahaha
 呂傑霖
 hahahaha
@@ -45,6 +51,9 @@ dsss大家好
 >>>>>>> 816d0815b2cf43e34bce2938a08d9e4d1c1e4054
 123132132132
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 70791c4a806b8e281c3f9e68c8cb9a53402122ce
+=======
 >>>>>>> 67a6d1060b09675a505d6db9c2ae8524b9c8e3c8
 
 
@@ -101,6 +110,7 @@ dsss大家好
 
 
 yayayayayaya
+>>>>>>> f69e48cb6ab7133351b98b3e8ea55f0bde7fdf6d
 =======
 
 >>>>>>> 6f7f9ec94dc57c4790c5cea91e2c9c5fc4533b24
